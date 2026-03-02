@@ -1,0 +1,10 @@
+{
+  "lastBroMessage": 0,
+  "microHeartbeatEnabled": false,
+  "broIdleThresholdMinutes": 30,
+  "microIntervalMinutes": [3, 15],
+  "dreamCronIntervalHours": [2, 4],
+  "lastDreamRun": 0,
+  "lastMicroRun": 0,
+  "microCronId": null
+}
